@@ -1,3 +1,6 @@
+*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+=========================================================
+
 ## This repository is out of date - please refer to the updated 'getting started' guide at [https://github.com/darryncampbell/DataWedge-GettingStarted-Samples](https://github.com/darryncampbell/DataWedge-GettingStarted-Samples) 
 
 # DataWedge-Intent-Example-3
